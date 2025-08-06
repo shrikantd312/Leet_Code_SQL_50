@@ -1,4 +1,4 @@
-📊 50 LeetCode SQL Questions – Practice Repository
+<pre>📊 50 LeetCode SQL Questions – Practice Repository
 Welcome to my SQL problem-solving repository!
 This project contains 50 solved SQL problems from LeetCode to improve and showcase my SQL skills, including:
 
@@ -39,7 +39,7 @@ This project contains 50 solved SQL problems from LeetCode to improve and showca
 🔗 Connect With Me
 📧 Email: shrikantd312@gmail.com
 📧 Email: ss23mac2r25@student.nitw.ac.in
-💼 LinkedIn: www.linkedin.com/in/shrikant-deshmukh-0611a82a9
+💼 LinkedIn: www.linkedin.com/in/shrikant-deshmukh-0611a82a9</pre>
 
 
 
